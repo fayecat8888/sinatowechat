@@ -5,6 +5,11 @@
 >http://bbs.pinggu.org/thread-5007602-1-1.html
 
 ## 使用方法
+在local python环境中安装环境依赖
+pip install requests
+pip install pyqrcode
+pip install pypng
+pip install Pillow
 ### 扫码登陆wechat
 ### 继承wxbot
 ### 只接受群文本消息（不需要@），文本格式为shxxxx或者szxxxxx。美股直接输入代号如：AAPL，SOGO
